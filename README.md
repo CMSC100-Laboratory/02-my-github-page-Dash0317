@@ -3,7 +3,7 @@
 _BS COMPUTER SCIENCE_  
 _[Live Website Here](https://cmsc100-laboratory.github.io/02-my-github-page-Dash0317/)_ 
 ## Key Takeaways: 
-- ### Refresh my html and css skills
+- ### This ecercise helped me refresh my html and css that we touched up on a bit during cmsc 12. But not only did it refresh my knowledge but added on to it, I learned about flex boxes and whole lot of other css properties. One other thing is that this takes up a while lot of time and I should've started earlier because I had to rush everything and now I regret procrastinating :(((
 ## Steps on how to create GitHub page:
 - Create a public repository
 - push your index.html file to the repo
