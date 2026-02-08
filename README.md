@@ -5,8 +5,9 @@ _[Live Website Here](https://cmsc100-laboratory.github.io/02-my-github-page-Dash
 ## Key Takeaways: 
 - ### Refresh my html and css skills
 ## Steps on how to create GitHub page:
-- Push html file to repo
-- Go to settings/pages then deploy from a branch
-- Save
+- Create a public repository
+- push your index.html file to the repo
+- Go to settings/pages then deploy from a branch and select your branch
+- Save and wait a bit then you're good to go!
 
 ## [References](https://docs.google.com/document/d/1ybhfIHLsvqeGoP7_8pZLdFcFYfKAeZ7KbfKMFLvjMhk/edit?usp=sharing)
